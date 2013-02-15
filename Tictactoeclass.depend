@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1357869095 source:c:\documents and settings\vortex\desktop\desktop files\c++ projects\tictactoeclass\main.cpp
+	<iostream>
+	"Players.h"
+
+1357869133 source:c:\documents and settings\vortex\desktop\desktop files\c++ projects\tictactoeclass\players.cpp
+	"Players.h"
+
+1357869095 c:\documents and settings\vortex\desktop\desktop files\c++ projects\tictactoeclass\players.h
+	<string>
+
+1358476339 source:c:\documents and settings\vortex\desktop\c++ programming\c++ projects\tictactoeclass\players.cpp
+	"Players.h"
+	<string>
+
+1358476257 c:\documents and settings\vortex\desktop\c++ programming\c++ projects\tictactoeclass\players.h
+	<string>
+
+1358475287 source:c:\documents and settings\vortex\desktop\c++ programming\c++ projects\tictactoeclass\main.cpp
+	<iostream>
+	"Players.h"
+	"Board.h"
+	"Game.h"
+
+1358475206 source:c:\documents and settings\vortex\desktop\c++ programming\c++ projects\tictactoeclass\board.cpp
+	"Board.h"
+	<iostream>
+	"Game.h"
+
+1358474904 c:\documents and settings\vortex\desktop\c++ programming\c++ projects\tictactoeclass\board.h
+
+1358476302 source:c:\documents and settings\vortex\desktop\c++ programming\c++ projects\tictactoeclass\game.cpp
+	"Game.h"
+	<iostream>
+	"Board.h"
+	"Players.h"
+
+1358476534 c:\documents and settings\vortex\desktop\c++ programming\c++ projects\tictactoeclass\game.h
+	"Board.h"
+	"Players.h"
+
+1360947336 source:c:\users\rafael.school\desktop\tictactoeclass\board.cpp
+	"Board.h"
+	<iostream>
+	"Game.h"
+
+1360947336 c:\users\rafael.school\desktop\tictactoeclass\board.h
+
+1360947336 c:\users\rafael.school\desktop\tictactoeclass\game.h
+	"Board.h"
+	"Players.h"
+
+1360947340 c:\users\rafael.school\desktop\tictactoeclass\players.h
+	<string>
+
+1360947336 source:c:\users\rafael.school\desktop\tictactoeclass\game.cpp
+	"Game.h"
+	<iostream>
+	"Board.h"
+	"Players.h"
+
+1360947340 source:c:\users\rafael.school\desktop\tictactoeclass\players.cpp
+	"Players.h"
+	<string>
+
